@@ -24,3 +24,5 @@ Next, we proceeded to import our enriched dataset into Power BI. To ensure consi
 Finally, what we did was translate these technical findings into a clear narrative for the stakeholders. We focused on presenting the data through storytelling, highlighting key trends and providing data-driven recommendations to help the business improve customer satisfaction and marketing efficiency.
 
 [🔗 **View the full project insights here: Marketing Analytics Insights Report**](https://gamma.app/docs/Marketing-Analytics-Portfolio-Project-4t138stro5upcxf?mode=present)
+
+Thanks to Ali Ahmad for the tutorial
